@@ -1,0 +1,16 @@
+C:\Users\Alunos\Desktop\Yasmin\CSharp\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.exe
+C:\Users\Alunos\Desktop\Yasmin\CSharp\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.deps.json
+C:\Users\Alunos\Desktop\Yasmin\CSharp\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.runtimeconfig.json
+C:\Users\Alunos\Desktop\Yasmin\CSharp\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\Alunos\Desktop\Yasmin\CSharp\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.dll
+C:\Users\Alunos\Desktop\Yasmin\CSharp\PrimeiroProjeto\bin\Debug\net5.0\ref\PrimeiroProjeto.dll
+C:\Users\Alunos\Desktop\Yasmin\CSharp\PrimeiroProjeto\bin\Debug\net5.0\PrimeiroProjeto.pdb
+C:\Users\Alunos\Desktop\Yasmin\CSharp\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.csprojAssemblyReference.cache
+C:\Users\Alunos\Desktop\Yasmin\CSharp\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Yasmin\CSharp\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Yasmin\CSharp\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Yasmin\CSharp\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Yasmin\CSharp\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.dll
+C:\Users\Alunos\Desktop\Yasmin\CSharp\PrimeiroProjeto\obj\Debug\net5.0\ref\PrimeiroProjeto.dll
+C:\Users\Alunos\Desktop\Yasmin\CSharp\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.pdb
+C:\Users\Alunos\Desktop\Yasmin\CSharp\PrimeiroProjeto\obj\Debug\net5.0\PrimeiroProjeto.genruntimeconfig.cache
